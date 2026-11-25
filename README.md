@@ -7,11 +7,29 @@
 
 Ищу стажировку или junior-позицию
 
+## Инструменты
+
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+### Навыки и методы
+
+![Product Analytics](https://img.shields.io/badge/Product_Analytics-245A8D?style=flat-square)
+![A/B Testing](https://img.shields.io/badge/A%2FB_Testing-6C4AB6?style=flat-square)
+![Statistics](https://img.shields.io/badge/Statistics-287D6B?style=flat-square)
+![Funnel Analysis](https://img.shields.io/badge/Funnel_Analysis-287D6B?style=flat-square)
+![Retention](https://img.shields.io/badge/Retention_Analysis-287D6B?style=flat-square)
+![Cohort Analysis](https://img.shields.io/badge/Cohort_Analysis-287D6B?style=flat-square)
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-287D6B?style=flat-square)
 
 </div>
 
